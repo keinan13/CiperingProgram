@@ -25,10 +25,10 @@ The program includes the following classes to handle its functionality:
 
 1. Clone this repository:
    ```sh
-   git clone <https://github.com/keinan13/CiperingProgram.git>
+   git clone https://github.com/keinan13/CipheringProgram.git
 
 ## Run 
 
-1. cd CiperingProgram
+1. cd CipheringProgram
 2. python main.py
 3. follow the program menu's
