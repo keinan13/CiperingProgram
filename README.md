@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program was developed as a mini project for our Electrical and Electronics Engineering degree at SCE (Shamoon Academic College), as part of the Structure and Security of Computer Networks course.
+This program was developed as a mini project for our Electrical and Electronics Engineering degree at SCE (Shamoon Academic College), as part of the Structure and Security of Computer Networks course in the 4th year.
 The program allows users to encrypt and decrypt text using various cipher methods. 
 The program is designed with a user-friendly interface, providing detailed help and visual feedback through ASCII art.
 
@@ -24,7 +24,7 @@ The program includes the following classes to handle its functionality:
 
 1. Clone this repository:
    ```sh
-   git clone <repository_url>
+   git clone <https://github.com/keinan13/CiperingProgram.git>
 
 ## Run 
 
