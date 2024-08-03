@@ -29,6 +29,6 @@ The program includes the following classes to handle its functionality:
 
 ## Run 
 
-1. cd <project_directory>
-2. python CiperingProgram.py
+1. cd CiperingProgram
+2. python main.py
 3. follow the program menu's
