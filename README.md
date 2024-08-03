@@ -30,5 +30,5 @@ The program includes the following classes to handle its functionality:
 ## Run 
 
 1. cd <project_directory>
-2. python <program_name>.py
+2. python CiperingProgram.py
 3. follow the program menu's
