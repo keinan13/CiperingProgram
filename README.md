@@ -1,8 +1,9 @@
-# Yehuda and Amir's Ciphering Program
+# Ciphering Program
+## By Yehuda Keinan and Amir Avevao
 
 ## Overview
 
-This program was developed as a mini project for our Electrical and Electronics Engineering degree at SCE (Shamoon Academic College), as part of the Structure and Security of Computer Networks course in the 4th year.
+This program was developed as a mini project for our Electrical and Electronics Engineering degree at SCE (Shamoon Academic College), as part of the Structure and Security of Computer Networks course in the 4th year, under the guidance of Ester Amitay.
 The program allows users to encrypt and decrypt text using various cipher methods. 
 The program is designed with a user-friendly interface, providing detailed help and visual feedback through ASCII art.
 
